@@ -1,0 +1,6 @@
+module Pods_Chest [system] {
+  umbrella header "Pods-Chest-umbrella.h"
+
+  export *
+  module * { export * }
+}
